@@ -28,7 +28,7 @@
 ---
 
 # 💫 About Me
-<p align="center"> <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="500"> </p>
+
 
 🎓 B.Tech Computer Science & Engineering Student
 
