@@ -17,11 +17,11 @@
 
 💻 Skilled in Java, Python, SQL and Full Stack Development
 
-🚀 Founder of WEBTIDES
 
 🌱 Currently learning:
-- SIEM Tools (Wazuh)
+- SIEM Tools
 - SOC Operations
+- VAPT
 - Cloud Security
 - Advanced Java Backend Development
 
@@ -34,10 +34,11 @@ Become a Security Analyst / SOC Analyst and contribute to securing modern digita
 
 # 🛠️ Tech Stack
 
-### Programming Languages
+### 💻 Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 ### Frontend
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -47,16 +48,36 @@ Become a Security Analyst / SOC Analyst and contribute to securing modern digita
 ### Backend & Database
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
 
-### Cybersecurity Tools
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+### 🔐 Cybersecurity Tools
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge)
+![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge)
+![Nessus](https://img.shields.io/badge/Nessus-00C176?style=for-the-badge)
+![Nikto](https://img.shields.io/badge/Nikto-6A5ACD?style=for-the-badge)
+![Hydra](https://img.shields.io/badge/Hydra-8B0000?style=for-the-badge)
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
-### Tools
+### 🛠️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+## ☁️ Areas of Interest
+
+![Network Security](https://img.shields.io/badge/Network_Security-00599C?style=for-the-badge)
+![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability_Assessment-FF4500?style=for-the-badge)
+![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-8B0000?style=for-the-badge)
+![Web Security](https://img.shields.io/badge/Web_App_Security-4B0082?style=for-the-badge)
+![Linux Administration](https://img.shields.io/badge/Linux_Admin-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-000000?style=for-the-badge)
 
 ---
 
