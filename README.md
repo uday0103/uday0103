@@ -11,25 +11,7 @@
 </h3>
 
 <p align="center">
-<img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="500">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=uday0103&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/uday-kumar-0b5564348">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://udaykumar0.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/>
-</a>
-
-<a href="mailto:udhaykumar9542@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <img src="https://komarev.com/ghpvc/?username=uday0103&label=Profile%20Views&color=00FF41&style=for-the-badge" />
 </p>
 
 
