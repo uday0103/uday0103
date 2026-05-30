@@ -18,9 +18,7 @@
 ---
 
 # 💫 About Me
-<p align="center">
-  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="450"/>
-</p>
+<p align="center"> <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="500"> </p>
 
 🎓 B.Tech Computer Science & Engineering Student
 
