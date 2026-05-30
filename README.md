@@ -2,11 +2,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&height=100&lines=UDAY+KUMAR;CYBERSECURITY+ENTHUSIAST;JAVA+FULL+STACK+DEVELOPER;SOC+ANALYST+ASPIRANT" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Uday Kumar</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Java+Full+Stack+Developer;Ethical+Hacker;SOC+Analyst+Aspirant;Building+Secure+Digital+Solutions" />
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="500">
 </p>
+
+<h3 align="center">
+🔐 Ethical Hacker • ☕ Java Developer • 🚀 Problem Solver
+</h3>
 
 <p align="center">
 <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="500">
