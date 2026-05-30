@@ -1,4 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=UDAY%20KUMAR&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=900&lines=Hi+👋+I'm+Uday+Kumar;Cybersecurity+Enthusiast;Ethical+Hacker;Java+Full+Stack+Developer;Welcome+To+My+GitHub+Profile" />
+</h1>
 
 <h1 align="center">Hi 👋, I'm Uday Kumar</h1>
 
