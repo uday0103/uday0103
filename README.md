@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/216656986-8b0f6c42-4d69-4f90-bd3d-3fd8f4a5cf2f.gif" width="100%">
 </p>
 
 <h3 align="center">
