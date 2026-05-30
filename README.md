@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="700">
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="900">
 </p>
 
 <h1 align="center">Hi 👋, I'm Uday Kumar</h1>
