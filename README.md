@@ -174,5 +174,5 @@ udhaykumar9542@gmail.com
 > 🔐 "Security is not a product, but a process." — Bruce Schneier
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,50:00FF41,100:000000"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Thanks+For+Visiting+My+Profile;Let's+Build+Something+Amazing;Stay+Secure+%F0%9F%94%90" />
 </p>
