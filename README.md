@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&height=100&lines=I+AM+UDAY+KUMAR;CYBERSECURITY+ENTHUSIAST;JAVA+FULL+STACK+DEVELOPER;SOC+ANALYST+ASPIRANT" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=100&lines=I+AM+UDAY+KUMAR;CYBERSECURITY+ENTHUSIAST;JAVA+FULL+STACK+DEVELOPER;SOC+ANALYST+ASPIRANT" />
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=uday0103&label=Profile%20Views&color=00FF41&style=for-the-badge" />
 </p>
-
+<p align="center"> <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="500"> </p>
 
 ---
 
@@ -38,7 +38,7 @@
 
 
 
-## 🎯 Current Focus
+## 🎯 Currently Working On
 
 - 🔐 SOC Analyst Preparation
 - 🛡️ Vulnerability Assessment & Penetration Testing
@@ -111,7 +111,9 @@ Travel booking platform built using Java Full Stack technologies.
 ### 🌐 WEBTIDES
 Startup initiative delivering websites, web applications and digital solutions.
 
----
+<p align="center">
+═══════════════════════════════════════════════════════
+</p>
 
 # 📊 GitHub Analytics
 
@@ -142,24 +144,7 @@ Startup initiative delivering websites, web applications and digital solutions.
 
 ---
 
-# 🌐 Portfolio
 
-🚀 Visit My Portfolio:
-
-👉 https://udaykumar0.netlify.app/
-
----
-
-# 🤝 Let's Connect
-
-💼 LinkedIn:
-https://www.linkedin.com/in/uday-kumar-0b5564348
-
-🐙 GitHub:
-https://github.com/uday0103
-
-📧 Email:
-udhaykumar9542@gmail.com
 
 ---
 
@@ -168,3 +153,6 @@ udhaykumar9542@gmail.com
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Thanks+For+Visiting+My+Profile;Let's+Build+Something+Amazing;Stay+Secure+%F0%9F%94%90" />
 </p>
+<h3 align="center">
+⚡ SECURE • BUILD • INNOVATE ⚡
+</h3>
