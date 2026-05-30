@@ -139,14 +139,11 @@ Startup initiative delivering websites, web applications and digital solutions.
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=uday0103&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=uday0103&theme=algolia&no-frame=true"/>
 </p>
 
 ---
 
-
-
----
 
 > 🔐 "Security is not a product, but a process." — Bruce Schneier
 
