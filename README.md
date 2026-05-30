@@ -139,7 +139,7 @@ Startup initiative delivering websites, web applications and digital solutions.
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=uday0103&theme=matrix&row=1&column=7&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=uday0103&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
